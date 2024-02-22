@@ -1,7 +1,7 @@
 import QuoteBox from "./QuoteBox";
 
 function App() {
-  return <QuoteBox className="centered-container" />;
+  return <QuoteBox />;
 }
 
 export default App;
