@@ -8,6 +8,7 @@ body {
   margin: 0;
   display: flex;
   place-items: center;
+  justify-content: center;
   min-width: 320px;
   min-height: 100vh;
 }
@@ -38,6 +39,7 @@ button {
 }
 
 #social-links {
+  font-size: small;
   text-align: center;
   position: fixed;
   bottom: 20px;
